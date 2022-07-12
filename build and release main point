@@ -1,4 +1,3 @@
-<h1>build and release main point’s</h1>
 Developers is Develop some app's after that the developers push the repo's in gerrit
 If the tester is go to the gerrit and select the repo's verify that test cases 
 After that push the code in jenkins master and slave concept   
@@ -11,4 +10,4 @@ It will be ready final step that is post commit
 
 
 
-👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻
+👍🏻👍🏻👍🏻👍🏻👍🏻👍
